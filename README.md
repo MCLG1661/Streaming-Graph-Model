@@ -107,7 +107,7 @@ RETURN a.name AS Ator
 - Explore os dados com as consultas fornecidas
 
 # Autor
-- [Marcus Guedes]
+- Marcus Guedes
 - Linkedin : https://www.linkedin.com/in/marcusguedes/
 - GitHub : https://github.com/MCLG1661
 
