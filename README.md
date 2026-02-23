@@ -1,6 +1,7 @@
 # 🎬 Streaming Service - Graph Database Model
 Trabalho de modelagem de dados em grafos para um serviço de streaming
 
+
 # 📚 Contexto Acadêmico
 
 Disciplina : Análise de Dados com Grafos
