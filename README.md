@@ -1,6 +1,6 @@
 # Streaming-Graph-Model
 
-📚 Contexto Acadêmico
+# 📚 Contexto Acadêmico
 
 Disciplina: Análise de Dados com Grafos
 
