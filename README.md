@@ -6,7 +6,7 @@ Trabalho de modelagem de dados em grafos para um serviço de streaming
 
 Disciplina : Análise de Dados com Grafos
 
-Professor : [Nome do professor]
+Professor : Matheus Ferreira
 
 Período : Primeiro Semestre/2026
 
