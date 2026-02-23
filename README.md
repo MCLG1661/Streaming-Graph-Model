@@ -108,8 +108,8 @@ RETURN a.name AS Ator
 
 # Autor
 - [Marcus Guedes]
-- Linkedin : [https://www.linkedin.com/in/marcusguedes/]
-- GitHub : [https://github.com/MCLG1661]
+- Linkedin : https://www.linkedin.com/in/marcusguedes/
+- GitHub : https://github.com/MCLG1661
 
 📅 Data de Entrega
 [23/02/2026] 
