@@ -13,10 +13,10 @@ Curso : Bootcamp Neo4j
 
 # Conceitos Aplicados
 
-- Modelagem de dados em grafos (paradigma NoSQL)
+- Modelagem de Dados comm Grafos (paradigma NoSQL)
 - Cypher Query Language (Neo4j)
-- Constraints e índices em banco de dados de grafos
-- Relacionamentos com propriedades
+- Constraints e Índices em Banco de Dados de Grafos
+- Relacionamentos com Propriedades
 - Consultas complexas e recomendações
 
 # 🏗️ Estrutura do Modelo
