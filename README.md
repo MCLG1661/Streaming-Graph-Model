@@ -2,13 +2,13 @@
 
 # 📚 Contexto Acadêmico
 
-Disciplina: Análise de Dados com Grafos
+Disciplina : Análise de Dados com Grafos
 
-Professor: [Nome do professor]
+Professor : [Nome do professor]
 
-Semestre: [Primeiro Semestre/2026]
+Período : Primeiro Semestre/2026
 
-Curso: [Bootcamp Neo4j]
+Curso : Bootcamp Neo4j
 
 
 # Conceitos Aplicados
