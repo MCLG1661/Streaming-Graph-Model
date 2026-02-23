@@ -21,6 +21,13 @@ Curso : Bootcamp Neo4j
 - Relacionamentos com Propriedades
 - Consultas complexas e recomendações
 
+# 🏗️ Estrutura do Projeto
+
+streaming-graph-model/
+├── README.md (editado com suas informações)
+├── modelo.cypher (script completo)
+└── diagrama.png (imagem do diagrama)
+
 # 🏗️ Estrutura do Modelo
 
 Entidades (Nós)
