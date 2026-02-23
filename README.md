@@ -112,6 +112,7 @@ RETURN a.name AS Ator
 - GitHub : https://github.com/MCLG1661
 
 📅 Data de Entrega
-[23/02/2026] 
+
+23/02/2026 
 
  
