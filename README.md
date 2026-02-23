@@ -1,4 +1,5 @@
-# Streaming Graph Model
+# 🎬 Streaming Service - Graph Database Model
+Trabalho de modelagem de dados em grafos para um serviço de streaming
 
 # 📚 Contexto Acadêmico
 
