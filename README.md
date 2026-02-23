@@ -1,4 +1,4 @@
-# Streaming-Graph-Model
+# Streaming Graph Model
 
 # 📚 Contexto Acadêmico
 
