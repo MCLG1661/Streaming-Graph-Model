@@ -2,18 +2,18 @@
 Trabalho de modelagem de dados em grafos para um serviço de streaming
 
 
-# 📚 Contexto Acadêmico
+## 📚 Contexto Acadêmico
 
-Disciplina : Análise de Dados com Grafos
+Disciplina : Fundamentos de Neo4j
 
 Professor : Matheus Ferreira
 
 Período : Primeiro Semestre/2026
 
-Curso : Bootcamp Neo4j
+Curso : Bootcamp Neo4j - Análise de Dados com Grafos
 
 
-# Conceitos Aplicados
+## Conceitos Aplicados
 
 - Modelagem de Dados com Grafos (paradigma NoSQL)
 - Cypher Query Language (Neo4j)
@@ -21,7 +21,7 @@ Curso : Bootcamp Neo4j
 - Relacionamentos com Propriedades
 - Consultas complexas e recomendações
 
-# 🏗️ Estrutura do Projeto
+## 🏗️ Estrutura do Projeto
 
 streaming-graph-model/
 
@@ -31,7 +31,7 @@ streaming-graph-model/
 
 └── diagrama.png (imagem do diagrama)
 
-# 🏗️ Estrutura do Modelo
+## 🏗️ Estrutura do Modelo
 
 Entidades (Nós)
 
@@ -42,14 +42,14 @@ Entidades (Nós)
 - Actor	Atores/atrizes	actorId (único), name
 - Director	Diretores	directorId (único), name 
 
-# Relacionamentos
+## Relacionamentos
 
 - WATCHED	Usuário assistiu conteúdo	rating (nota de 1 a 5)
 - ACTED_IN	Ator atuou no conteúdo	
 - DIRECTED	Diretor dirigiu o conteúdo
 - IN_GENRE	Conteúdo pertence ao gênero
 
-# Cardinalidades
+## Cardinalidades
 
 - Um Usuário pode assistir vários filmes/séries
 - Um Filme/Série pode ser assistido por vários usuários
@@ -59,7 +59,7 @@ Entidades (Nós)
 - Um Filme/Série tem um ou mais gêneros
 - Um Gênero pode estar em vários filmes/séries
 
- # 📊 Dados do Dataset
+ ## 📊 Dados do Dataset
 
 O modelo foi populado com:
 
@@ -72,40 +72,40 @@ O modelo foi populado com:
 - 39 Nós
 - 44 Relacionamentos
 
-# 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - Neo4j (versão 4.x/5.x) - Banco de dados de grafos
 - Cypher - Linguagem de consulta
 - Arrows - Ferramenta de diagramação
 - Git/GitHub - Controle de versão e entrega
 
-# 📁 Arquivos do Projeto
+## 📁 Arquivos do Projeto
 
 - modelo.cypher :	Script completo com constraints e população do banco
 - Diagrama.png	: Diagrama visual do modelo de grafos
 - README.md	: Documentação do projeto
 - Consultas.cypher (Opcional) :	Consultas de exemplos
 
-# 📌 Observações
+## 📌 Observações
 
 - O modelo pode ser estendido para incluir outras entidades (ex: Episódios, Premiações, Estúdios)
 - As avaliações (ratings) são de 1 a 5 estrelas
 - Todos os IDs são únicos (garantido por constraints)
 - O script cria o banco do zero (pode ser executado múltiplas vezes sem duplicar dados)
 
-# 🏁 Como Executar o Projeto
+## 🏁 Como Executar o Projeto
 
 - Instale o Neo4j Desktop ou use o Neo4j AuraDB (nuvem)
 - Crie um novo banco de dados
 - Execute o script modelo.cypher no Neo4j Browser
 - Explore os dados com as consultas fornecidas
 
-# Autor
+## Autor
 - Marcus Guedes
 - Linkedin : https://www.linkedin.com/in/marcusguedes/
 - GitHub : https://github.com/MCLG1661
 
-📅 Data de Entrega
+## 📅 Data de Entrega
 
 23/02/2026 
 
