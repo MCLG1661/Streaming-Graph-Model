@@ -95,10 +95,13 @@ O modelo utiliza seis principais tipos de nós.
 ## 🔗 Relacionamentos
 
 
-| `WATCHED` | Usuário assistiu determinado conteúdo |
-| `ACTED_IN` | Ator participou de um filme ou série |
-| `DIRECTED` | Diretor dirigiu determinado conteúdo |
-| `IN_GENRE` | Conteúdo pertence a determinado gênero |
+`WATCHED` - Usuário assistiu determinado conteúdo 
+
+`ACTED_IN` - Ator participou de um filme ou série
+
+`DIRECTED` - Diretor dirigiu determinado conteúdo
+
+`IN_GENRE` - Conteúdo pertence a determinado gênero
 
 O relacionamento `WATCHED` também pode armazenar propriedades, como a avaliação 
 atribuída pelo usuário.
@@ -122,16 +125,22 @@ da plataforma.
 
 O modelo foi populado com dados demonstrativos para permitir a execução das consultas.
 
-| Entidade | Quantidade |
-|---|---:|
-| Usuários | 10 |
-| Filmes | 6 |
-| Séries | 4 |
-| Gêneros | 6 |
-| Atores | 8 |
-| Diretores | 5 |
-| **Total de Nós** | **39** |
-| **Relacionamentos** | **44** |
+
+Usuários - 10
+
+Filmes - 6
+
+Séries - 4 
+
+Gêneros - 6 
+
+Atores - 8 
+
+Diretores - 5 
+
+**Total de Nós** - **39**
+
+**Relacionamentos** - **44**
 
 ---
 
