@@ -151,10 +151,16 @@ principais entidades.
 
 Exemplos:
 
+```tex
 User → userId
+
 Movie → movieId
+
 Series → seriesId
+
 Genre → genreId
+
+```
 
 Isso evita duplicidades e contribui para a consistência dos dados armazenados no grafo.
 
@@ -164,7 +170,7 @@ Isso evita duplicidades e contribui para a consistência dos dados armazenados n
 
 O arquivo `Consultas.Cypher` reúne consultas utilizadas para explorar o modelo.
 
-As consultas permitem trabalhar conceitos como:
+As consultas permitem trabalhar conceitos como :
 
 - Navegação entre nós
 - Filtragem
@@ -182,8 +188,9 @@ As consultas permitem trabalhar conceitos como:
 Uma das aplicações mais interessantes de bancos de grafos em plataformas de 
 streaming é a construção de recomendações baseadas em relacionamentos.
 
-Um fluxo conceitual pode ser representado por:
+Um fluxo conceitual pode ser representado por :
 
+```text
 Usuário
    ↓
 Conteúdos Assistidos
@@ -196,6 +203,7 @@ Outros Conteúdos
    ↓
 Recomendação
 
+```
 A estrutura em grafo facilita a exploração dessas conexões e a identificação 
 de padrões entre usuários e conteúdos.
 
@@ -203,38 +211,42 @@ de padrões entre usuários e conteúdos.
 
 ## 🛠️ Tecnologias
 
-| Tecnologia | Aplicação |
-|---|---|
-| **Neo4j** | Banco de dados orientado a grafos |
-| **Cypher** | Criação e consulta do grafo |
-| **Arrows** | Modelagem visual |
-| **Git** | Versionamento |
-| **GitHub** | Repositório e documentação |
+
+**Neo4j** - Banco de dados orientado a grafos
+
+**Cypher** - Criação e consulta do grafo
+
+**Arrows** - Modelagem visual
+
+**Git** - Versionamento
+
+**GitHub** - Repositório e documentação
 
 ---
 
 ## 📂 Estrutura do Repositório
 
+```text
 Streaming-Graph-Model/
 │
 ├── Modelo.Cypher
 ├── Consultas.Cypher
 ├── Meu_Diagrama_Streaming.png
 └── README.md
-
+```
 ---
 
 ## ▶️ Como Executar
 
-### 1. Configure o Neo4j
+1. Configure o Neo4j
 
 Utilize uma instância compatível do Neo4j.
 
-### 2. Crie o banco
+2. Crie o banco
 
 Crie uma nova base para executar o modelo.
 
-### 3. Execute o modelo
+3. Execute o modelo
 
 Abra:
 
@@ -242,7 +254,7 @@ Modelo.Cypher
 
 e execute os comandos para criação das constraints, nós, propriedades e relacionamentos.
 
-### 4. Execute as consultas
+4. Execute as consultas
 
 Depois de popular o grafo, utilize:
 
@@ -272,7 +284,7 @@ para explorar os dados e relacionamentos.
 
 ## 🚀 Possíveis Evoluções
 
-O modelo pode evoluir incorporando:
+O modelo pode evoluir incorporando :
 
 - Episódios
 - Temporadas
@@ -316,6 +328,7 @@ aplicação real.
 Marketing | Data Science | Inteligência Artificial | Gestão de Projetos
 
 GitHub: MCLG1661  
+
 LinkedIn: Marcus Guedes
 
 ---
