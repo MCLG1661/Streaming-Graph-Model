@@ -16,7 +16,7 @@ Projeto de **modelagem de dados em grafos** desenvolvido durante o
 O projeto utiliza **Neo4j e Cypher** para representar o domínio de uma 
 plataforma de streaming através de nós, propriedades e relacionamentos.
 
-O modelo permite explorar conexões entre:
+O modelo permite explorar conexões entre :
 
 **Usuários → Filmes/Séries → Gêneros → Atores → Diretores**
 
